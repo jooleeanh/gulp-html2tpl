@@ -30,7 +30,7 @@
     "gulp-util": "~2.2.12",
     "through": "~2.3.4",
     "async": "~0.2.10",
-    "underscore": "~1.5.2"
+    "underscore": "~1.8.3"
   },
   "devDependencies": {
     "gulp": "~3.4.0",
