@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "coffee-script": "~1.7.1",
-    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp": "git://github.com/gulpjs/gulp.git#6d71a658c61edb3090221579d8f97dbe086ba2ed",
     "gulp-coffee": "~1.4.1",
     "gulp-concat": "~2.1.7",
     "mocha": "~1.15.1",
